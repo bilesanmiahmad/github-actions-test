@@ -1,0 +1,20 @@
+name: Ali
+age: 28
+address: "96, Fulani Rd"
+active: true
+key: 
+  key: value
+  key2: 33
+  key3:
+    key: value
+    key2: 44
+jsonstyle: {key: value, key2: 33}
+array:
+  - item1
+  - item2
+  - item3: value
+objectArray: 
+  - key: value
+    key2: value2
+  - key: value
+    key2: value2
